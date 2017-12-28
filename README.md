@@ -1,2 +1,2 @@
 # hello-world
-example repository
+example repository, try to understand what's going on
